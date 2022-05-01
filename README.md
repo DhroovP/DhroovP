@@ -1,0 +1,13 @@
+Hi! My name is Dhroov Patel and I'm a senior at the University of Michigan studying Data Science.
+
+
+- 👋 Hi, I’m @DhroovP
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+DhroovP/DhroovP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
